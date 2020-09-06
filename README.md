@@ -9,9 +9,13 @@ That stated, in many cases we also have miners, proxies, pools, and and exchange
 
 We are by no means claiming code and/or any rights other than shared with us and all license artifacts are precisely where they were placed by those who developed the software, as can be evidensed by the sometime long list of contributors to packages that we've only recently begin to host the code for.
 
-All code updates come directly from the upstream developer and in every case that we still can, we have linked our code to the master that we cloned from so that we will always be able to receive and share code updates that have been shared froma wide ranging down stream of code ranglers, like us.
+All code updates come directly from the upstream developer and in every case that we still can, we have linked our code to the master that we cloned from so that we will always be able to receive and share code updates that have been shared from a wide ranging down stream of code ranglers, like us.
 
-I am also just learning how this page works so here goes the first commit.
+I am also just learning how this page works so here goes the first commit.<BR>
+
+Barry "Willie" Black<BR>
+Chief Scientist & Tech. Architect<BR>
+Black Ranger Software, LLC<BR>
 
 <A HREF="">ArMqA</A><BR>
 <A HREF="">Bittube</A><BR>
@@ -40,8 +44,4 @@ I am also just learning how this page works so here goes the first commit.
 <A HREF="">Ultranote Infinity</A><BR>
 <A HREF="">uPlexa</A><BR>
 <A HREF="">WOWnero</A><BR>
-<A HREF="">XTend Cash</A><BR>
-
-Barry "Willie" Black<BR>
-Chief Scientist & Tech. Architect<BR>
-Black Ranger Software, LLC
+<A HREF="">XTend Cash</A>
