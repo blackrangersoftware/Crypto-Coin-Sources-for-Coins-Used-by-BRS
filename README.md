@@ -13,6 +13,6 @@ All code updates come directly from the upstream developer and in every case tha
 
 I am also just learning how this page works so here goes the first commit.
 
-Barry "Willie" Black
-Chief Scientist & Tech. Architect
-Black ranger Software, LLC
+Barry "Willie" Black<BR>
+Chief Scientist & Tech. Architect<BR>
+Black Ranger Software, LLC
